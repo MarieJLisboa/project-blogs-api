@@ -10,7 +10,7 @@ As principais <strong>skills</strong> usadas:
 - **`CRUD`**;
 - **`ORM Sequelize`**;
 - **`JWT`**;
-
+- **`Docker`**;
 <br>
 
 <br/> <br/> Entre em contato comigo: [![Linkedin Maria José](https://img.shields.io/badge/-mariejl-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/mariejl/)](https://linkedin.com/in/mariejl/)
